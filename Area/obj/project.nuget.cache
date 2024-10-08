@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ikjO3gmKM9PuXy87wVeC/6r1b09u32e7dZBfdgkOrjetUu8/DZ4JBBgc2Jp4B1ppAT/Z3qLChS+2Z6CaSEvtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabym\\OneDrive - Torrens Global Education Services\\Desktop\\my c# programs\\Area\\Area.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabym\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\gabym\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\gabym\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\gabym\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

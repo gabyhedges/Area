@@ -1,0 +1,15 @@
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\Area\bin\Debug\net6.0\Area.exe
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\Area\bin\Debug\net6.0\Area.deps.json
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\Area\bin\Debug\net6.0\Area.runtimeconfig.json
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\Area\bin\Debug\net6.0\Area.dll
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\Area\bin\Debug\net6.0\Area.pdb
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\Area\obj\Debug\net6.0\Area.csproj.AssemblyReference.cache
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\Area\obj\Debug\net6.0\Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\Area\obj\Debug\net6.0\Area.AssemblyInfoInputs.cache
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\Area\obj\Debug\net6.0\Area.AssemblyInfo.cs
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\Area\obj\Debug\net6.0\Area.csproj.CoreCompileInputs.cache
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\Area\obj\Debug\net6.0\Area.dll
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\Area\obj\Debug\net6.0\refint\Area.dll
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\Area\obj\Debug\net6.0\Area.pdb
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\Area\obj\Debug\net6.0\Area.genruntimeconfig.cache
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\Area\obj\Debug\net6.0\ref\Area.dll
